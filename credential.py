@@ -1,0 +1,2 @@
+LINKEDIN_NAME = 'laurali2016@outlook.com'
+LINKEDIN_PW = '13709681351'
