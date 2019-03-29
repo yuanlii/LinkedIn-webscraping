@@ -1,4 +1,4 @@
-# 507final_project
+# LinkedIn web scraping project
 
 This project aims to investigate more about user-experience researchers, in terms of their degree levels, locations, occupation titles, etc. to see if there are interesting insights that I can gain from the profile info of UX researchers. 
 
