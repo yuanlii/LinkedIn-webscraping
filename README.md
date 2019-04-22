@@ -1,6 +1,6 @@
 # LinkedIn web scraping project
 
-This project aims to investigate more about user-experience researchers, in terms of their degree levels, locations, occupation titles, etc. to see if there are interesting insights that I can gain from the profile info of UX researchers. 
+People with similar background to you can provide insights in terms of making reasonable career decisions. For this project, I am intended to build a tool for people to investigate other people with similar background to you, and thus provide guidance in deciding career paths of ourselves.
 
 ## Data sources
 The data of this project is based on the user profiles that I conducted scraping and crawling from LinkedIn. 
