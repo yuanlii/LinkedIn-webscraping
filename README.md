@@ -1,4 +1,4 @@
-# LinkedIn web scraping project
+# LinkedIn Scrapper
 
 People with similar background to you can provide insights in terms of making reasonable career decisions. For this project, I am intended to build a tool for people to investigate other people with similar background to you, and thus provide guidance in deciding career paths of ourselves.
 
